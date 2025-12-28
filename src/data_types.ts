@@ -6,6 +6,13 @@ export type Email = string;
 export type UserId = number;
 export type IsActive = boolean;
 
+// function sendEmail(to: Email, subject: string) {
+//   // implementation
+// }
+
+// const userEmail: Email = "john@example.com";
+// sendEmail(userEmail, "Welcome!");
+
 
 /* ========================================
    OBJECT (basic shape)
